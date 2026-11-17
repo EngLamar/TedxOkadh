@@ -64,8 +64,10 @@
 
 <div align="center">
 
-<sub>Built with ❤️ by the TEDxOkadh volunteer team. This repository showcases my contribution to the website.<br/>Team repository: <a href="https://github.com/enghanamansour/TedxOkadh">enghanamansour/TedxOkadh</a></sub>
+<sub>Built with ❤️ by the TEDxOkadh volunteer team. This repository showcases my contribution to the website.</sub>
 
 <sub><i>This independent TEDx event is operated under license from TED.</i></sub>
+
+<img src="assets/footer.svg" alt="" width="100%"/>
 
 </div>
