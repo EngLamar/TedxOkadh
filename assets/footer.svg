@@ -7,8 +7,7 @@
   <!-- stage spotlight -->
   <path d="M560 0 L720 0 L900 200 L380 200 Z" fill="url(#spot)"/>
   <!-- red dot stage carpet -->
-  <ellipse cx="640" cy="196" rx="260" ry="26" fill="#000000" opacity="0.25"/>
-  <ellipse cx="640" cy="188" rx="200" ry="18" fill="#FF4A3D"/>
+  <ellipse cx="640" cy="178" rx="200" ry="14" fill="#FF4A3D"/>
 
   <!-- big faded X -->
   <g opacity="0.12" stroke="#FFFFFF" stroke-width="26" stroke-linecap="round">
@@ -17,5 +16,6 @@
   </g>
 
   <text x="640" y="82" text-anchor="middle" font-size="40" font-weight="800" fill="#FFFFFF">Ideas worth spreading</text>
-  <text x="640" y="124" text-anchor="middle" font-size="22" fill="#FFE1DE">أفكار تستحق الانتشار · TEDxOkadh 2026 · Taif</text>
+  <text x="640" y="120" text-anchor="middle" font-size="24" fill="#FFE1DE">أفكار تستحق الانتشار</text>
+  <text x="640" y="150" text-anchor="middle" font-size="16" letter-spacing="2" fill="#FFC9C3">TEDxOkadh 2026 · TAIF</text>
 </svg>
