@@ -1,20 +1,71 @@
-# TEDxOkadh
+<div align="center">
 
-The official website for the 3rd edition of **TEDxOkadh** (2026), two days of talks in Taif, Saudi Arabia.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E62B1E,100:8C1007&height=170&section=header&text=TEDxOkadh%202026&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=The%20official%20website%20%C2%B7%203rd%20edition%20%C2%B7%20Taif&descAlignY=75&descSize=18" width="100%"/>
 
-🌐 **Live website:** [tedxokadh.co](https://tedxokadh.co/)
+### 🎤 Two days of ideas worth spreading, in Taif, Saudi Arabia
 
----
+[![Website](https://img.shields.io/badge/🌐_Visit_Website-tedxokadh.co-E62B1E?style=for-the-badge)](https://tedxokadh.co/)
 
-## About
-A bilingual (Arabic / English) event website built by a volunteer team, covering the event countdown, ticket booking and the talks agenda.
+![Volunteer](https://img.shields.io/badge/Volunteer-Project-000000?style=flat-square)
+![Bilingual](https://img.shields.io/badge/Arabic_%2F_English-Bilingual-E62B1E?style=flat-square)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-8C1007?style=flat-square)
 
-## My Role (Lamar Bader Altalhi)
-**Volunteer Web Designer / Developer** · 04/2026 – 05/2026
-
-- Designed and developed the TEDxOkadh website as part of the volunteer team.
-- Collaborated with the team to improve the website's user experience and interface.
+</div>
 
 ---
 
-<i>This repository is a showcase of my contribution to the TEDxOkadh website. Team repository: <a href="https://github.com/enghanamansour/TedxOkadh">enghanamansour/TedxOkadh</a></i>
+## 👩‍💻 My Role — Lamar Bader Altalhi
+**Volunteer Web Designer / Developer** · 04/2026 – 05/2026 · Taif
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Design & Development
+- **Designed and developed** the TEDxOkadh website as part of the volunteer team.
+- Helped bring the event's identity to the web with TEDx's red-and-black style.
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ User Experience
+- **Collaborated with the team** to improve the website's user experience and interface.
+- Focused on making event information clear and easy to reach for every visitor.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎟️ The Event
+
+<div align="center">
+
+| 📍 City | 🗓️ Edition | ⏱️ Length | 🗣️ Languages |
+|:--:|:--:|:--:|:--:|
+| **Taif** | **3rd · 2026** | **2 days of talks** | **Arabic · English** |
+
+</div>
+
+---
+
+## 🌐 What the Website Offers
+
+| | Feature | Description |
+|:--:|:---|:---|
+| 🌍 | **Bilingual site** | Full Arabic and English versions. |
+| ⏳ | **Countdown** | A live countdown to the event day. |
+| 🎫 | **Ticket booking** | Visitors reserve their seats online. |
+| 📅 | **Agenda** | Speakers and talks for both days. |
+| ✅ | **Door check-in** | Tickets are scanned and verified at the entrance. |
+
+---
+
+<div align="center">
+
+<sub>Built with ❤️ by the TEDxOkadh volunteer team. This repository showcases my contribution to the website.<br/>Team repository: <a href="https://github.com/enghanamansour/TedxOkadh">enghanamansour/TedxOkadh</a></sub>
+
+<sub><i>This independent TEDx event is operated under license from TED.</i></sub>
+
+</div>
