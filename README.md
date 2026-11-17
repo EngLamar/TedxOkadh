@@ -68,6 +68,6 @@
 
 <sub><i>This independent TEDx event is operated under license from TED.</i></sub>
 
-<img src="assets/footer.svg" alt="" width="100%"/>
+<img src="assets/footer-taif.svg" alt="" width="100%"/>
 
 </div>
